@@ -1,5 +1,5 @@
 {
-  "total": 567,
+  "total": 568,
   "categories": {
     "analytics": {"count": 11, "title": "Analytics", "description": "Data or statistics to make intelligent marketing and business decisions"},
     "backend": {"count": 11, "title": "Backend", "description": "Database and server-side technologies"},
@@ -10,7 +10,7 @@
     "education": {"count": 3, "title": "Education"},
     "email": {"count": 10, "title": "Email", "description": "Electronic mail services including storage, delivery and analysis"},
     "enterprise": {"count": 5, "title": "Enterprise"},
-    "financial": {"count": 14, "title": "Financial", "description": "Financial and accounting services"},
+    "financial": {"count": 15, "title": "Financial", "description": "Financial and accounting services"},
     "hosting": {"count": 3, "title": "Hosting", "description": "Web hosting and management"},
     "iot": {"count": 6, "title": "IoT", "description": "Internet of Things"},
     "location": {"count": 11, "title": "Location", "description": "Location services including maps, GPS and co-ordinate conversion"},
