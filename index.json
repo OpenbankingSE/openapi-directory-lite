@@ -34,7 +34,7 @@
     "transport": {"count": 16, "title": "Transport"}
   },
   "specs": {
-    "berlin-group.com": {"version": "1.2", "categories": ["financial"], "title": "Berlin Group PSD2 API Standard"},
+    "developer.berlin-group.com": {"version": "1.2", "categories": ["financial"], "title": "Berlin Group PSD2 API Standard"},
     "1forge.com": {"version": "0.0.1", "categories": ["financial"], "title": "1Forge Finance APIs"},
     "3blades.ai": {"version": "1.0", "categories": ["open_data"], "title": "3blades"},
     "6-dot-authentiqio.appspot.com": {"version": "6", "categories": ["security"], "title": "Authentiq"},
